@@ -1,0 +1,36 @@
+Created_date_month,Product_family,Actual_quantity
+1.0,Hybrid 24V,25
+1.0,Other,8
+1.0,Power 36V,26
+1.0,Push 1.5,7
+2.0,Hybrid 24V,21
+2.0,Other,15
+2.0,Power 36V,27
+2.0,Push 1.5,14
+3.0,Hybrid 24V,42
+3.0,Other,25
+3.0,Power 36V,33
+3.0,Push 1.5,11
+4.0,Hybrid 24V,29
+4.0,Hybrid 24V DISC,1
+4.0,Other,14
+4.0,Power 36V,29
+4.0,Push 1.5,14
+5.0,Hybrid 24V,48
+5.0,Hybrid 24V DISC,1
+5.0,Other,45
+5.0,Power 36V,56
+5.0,Push 1.5,25
+6.0,Hybrid 24V,72
+6.0,Other,38
+6.0,Power 36V,72
+6.0,Push 1.5,29
+7.0,Hybrid 24V,53
+7.0,Hybrid 24V DISC,1
+7.0,Other,32
+7.0,Power 36V,65
+7.0,Push 1.5,29
+8.0,Hybrid 24V,14
+8.0,Other,4
+8.0,Power 36V,8
+8.0,Push 1.5,1
